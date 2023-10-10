@@ -32,3 +32,8 @@ contain the front-end part.
 ## `Rooms`
 ![Screenshot (186)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/5cb8fd4c-a3c3-4e28-b12e-ff7f41dd0319)
 
+## `login`
+![Screenshot (187)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/5304f91a-5047-4f8f-b0be-1d7419130a73)
+
+## `register`
+
