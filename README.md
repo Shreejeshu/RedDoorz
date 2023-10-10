@@ -17,7 +17,8 @@ contain the front-end part.
 ---
 # Website Overview
 ## `Landing Page`
-![chrome_c4HJcitarz](https://user-images.githubusercontent.com/66358041/180613396-8a0c1f8f-d44a-4ee8-b31d-8c12cd462f14.png)
+![Screenshot (182)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/db6eb614-ba84-409f-ab8b-4d76c11926a8)
+
 
 
 ## `Search Your Destination`
