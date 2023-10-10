@@ -28,7 +28,6 @@ contain the front-end part.
 ![Screenshot (183)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/a8c9446f-1fda-450b-9959-b2b1d496c72c) | ![]![Screenshot (184)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/250a6388-5a5c-4cc6-996a-aa43392006ed)
 
 ## `Compare Prices`
-![chrome_TXqtYYRtPH](https://user-images.githubusercontent.com/66358041/180613416-ffdde0d3-68f3-4188-9b60-6eb7c6c10600.png)
-
+![Screenshot (185)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/bded0688-6316-4918-81a4-c04f427e8768)
 ## `Rooms`
 ![chrome_ZWdmxMKosi](https://user-images.githubusercontent.com/66358041/180613427-8021264e-1e48-4b22-b909-10aec7988739.jpg)
