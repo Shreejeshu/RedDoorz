@@ -30,4 +30,5 @@ contain the front-end part.
 ## `Compare Prices`
 ![Screenshot (185)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/bded0688-6316-4918-81a4-c04f427e8768)
 ## `Rooms`
-![chrome_ZWdmxMKosi](https://user-images.githubusercontent.com/66358041/180613427-8021264e-1e48-4b22-b909-10aec7988739.jpg)
+![Screenshot (186)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/5cb8fd4c-a3c3-4e28-b12e-ff7f41dd0319)
+
