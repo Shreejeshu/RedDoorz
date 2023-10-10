@@ -39,7 +39,11 @@ contain the front-end part.
 
 ![Screenshot (188)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/3a2cb3e7-8dd5-4015-8feb-8ee1281810b6)
 
-## `admin`
+## `admin` crud operations
 ![Screenshot (189)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/352f6cc0-f190-46e8-8e76-a875d999eaa3)
 
 ![Screenshot (190)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/49cf6c4e-adf8-4392-a16d-aa509e53dcc7)
+
+![Screenshot (191)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/726134f4-9acd-4b41-af36-2cbfe430862c)
+
+
