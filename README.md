@@ -24,7 +24,8 @@ contain the front-end part.
 ## `Search Your Destination`
   select city, duration, rooms         |  different cities
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/66358041/180613408-6175af23-1cf6-40a2-b3f1-543f2a75ca74.jpg) | ![](https://user-images.githubusercontent.com/66358041/180613422-97ca6121-885f-42dc-a291-b492816234da.jpg)
+
+![Screenshot (183)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/a8c9446f-1fda-450b-9959-b2b1d496c72c) | ![](https://user-images.githubusercontent.com/66358041/180613422-97ca6121-885f-42dc-a291-b492816234da.jpg)
 
 ## `Compare Prices`
 ![chrome_TXqtYYRtPH](https://user-images.githubusercontent.com/66358041/180613416-ffdde0d3-68f3-4188-9b60-6eb7c6c10600.png)
