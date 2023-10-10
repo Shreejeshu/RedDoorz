@@ -25,7 +25,7 @@ contain the front-end part.
   select city, duration, rooms         |  different cities
 :-------------------------:|:-------------------------:
 
-![Screenshot (183)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/a8c9446f-1fda-450b-9959-b2b1d496c72c) | ![](https://user-images.githubusercontent.com/66358041/180613422-97ca6121-885f-42dc-a291-b492816234da.jpg)
+![Screenshot (183)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/a8c9446f-1fda-450b-9959-b2b1d496c72c) | ![]![Screenshot (184)](https://github.com/Shreejeshu/RedDoorz/assets/129499258/250a6388-5a5c-4cc6-996a-aa43392006ed)
 
 ## `Compare Prices`
 ![chrome_TXqtYYRtPH](https://user-images.githubusercontent.com/66358041/180613416-ffdde0d3-68f3-4188-9b60-6eb7c6c10600.png)
